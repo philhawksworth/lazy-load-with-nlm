@@ -1,6 +1,6 @@
 # Example: Netlify Large Media and picture
 
-This is an example site to demonstrate the use of Netlify Large Media for managing source image assets and serving image transformations on-the-fly to populate different source images in picture elements.
+This is an example site to demonstrate the use of [Netlify Large Media](https://www.netlify.com/products/large-media/?utm_source=github&utm_medium=nlm-example-pnh&utm_campaign=devex) for managing source image assets and serving image transformations on-the-fly to populate different source images in picture elements.
 
 
 ## Local development
@@ -30,4 +30,4 @@ netlify dev
 
 ### Configuring your own Netlify Large Media workflow
 
-After cloning this repo, you can set it up as a site of your own on Netlify, and configure the Netlify Large Media pipeline by following the [guidance in the docs](https://www.netlify.com/docs/large-media/)
+After cloning this repo, you can set it up as a site of your own on Netlify, and configure the Netlify Large Media pipeline by following the [guidance in the docs](https://www.netlify.com/docs/large-media/?utm_source=github&utm_medium=nlm-example-pnh&utm_campaign=devex)
